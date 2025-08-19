@@ -5,3 +5,6 @@ numpy
 soundfile
 torch
 torchaudio
+openai
+scipy
+moviepy
